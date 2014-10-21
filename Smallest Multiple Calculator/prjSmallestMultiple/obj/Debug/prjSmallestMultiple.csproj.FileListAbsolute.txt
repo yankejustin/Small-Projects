@@ -1,0 +1,15 @@
+C:\Users\jyanke\Desktop\slnSmallestMultiple\prjSmallestMultiple\bin\Debug\prjSmallestMultiple.exe.config
+C:\Users\jyanke\Desktop\slnSmallestMultiple\prjSmallestMultiple\bin\Debug\prjSmallestMultiple.exe
+C:\Users\jyanke\Desktop\slnSmallestMultiple\prjSmallestMultiple\bin\Debug\prjSmallestMultiple.pdb
+C:\Users\jyanke\Desktop\slnSmallestMultiple\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.csprojResolveAssemblyReference.cache
+C:\Users\jyanke\Desktop\slnSmallestMultiple\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.exe
+C:\Users\jyanke\Desktop\slnSmallestMultiple\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.pdb
+E:\Development\SortThis\slnSmallestMultiple\prjSmallestMultiple\bin\Debug\prjSmallestMultiple.exe.config
+E:\Development\SortThis\slnSmallestMultiple\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.exe
+E:\Development\SortThis\slnSmallestMultiple\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.pdb
+E:\Development\SortThis\slnSmallestMultiple\prjSmallestMultiple\bin\Debug\prjSmallestMultiple.exe
+E:\Development\SortThis\slnSmallestMultiple\prjSmallestMultiple\bin\Debug\prjSmallestMultiple.pdb
+E:\Development\SortThis\slnSmallestMultiple\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.csprojResolveAssemblyReference.cache
+C:\Users\jyanke\Documents\GitHub\Small-Projects\Smallest Multiple Calculator\prjSmallestMultiple\bin\Debug\prjSmallestMultiple.exe.config
+C:\Users\jyanke\Documents\GitHub\Small-Projects\Smallest Multiple Calculator\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.exe
+C:\Users\jyanke\Documents\GitHub\Small-Projects\Smallest Multiple Calculator\prjSmallestMultiple\obj\Debug\prjSmallestMultiple.pdb
