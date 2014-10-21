@@ -1,0 +1,6 @@
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\bin\Debug\prjSumOfMultiples.exe.config
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\bin\Debug\prjSumOfMultiples.exe
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\bin\Debug\prjSumOfMultiples.pdb
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\obj\Debug\prjSumOfMultiples.exe
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\obj\Debug\prjSumOfMultiples.pdb
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\obj\Debug\prjSumOfMultiples.csprojResolveAssemblyReference.cache

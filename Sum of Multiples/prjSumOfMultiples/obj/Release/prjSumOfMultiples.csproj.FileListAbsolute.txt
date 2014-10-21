@@ -1,0 +1,5 @@
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\bin\Release\prjSumOfMultiples.exe.config
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\bin\Release\prjSumOfMultiples.exe
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\bin\Release\prjSumOfMultiples.pdb
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\obj\Release\prjSumOfMultiples.exe
+C:\Users\jyanke\Desktop\slnSumOfMultiples\prjSumOfMultiples\obj\Release\prjSumOfMultiples.pdb
